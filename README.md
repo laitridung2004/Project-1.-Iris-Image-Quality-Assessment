@@ -91,7 +91,7 @@ This is our original interface, where you will need to upload the image you want
 
 
 ## Acknowledgments
-This project would not have been possible without the invaluable contributions of several open-source libraries, such as [Keras](link Keras), [PyTorch](link Pytorch), and [Diffusers](link Diffusers). Their robust tools and resources were instrumental in the success of this project.
+This project would not have been possible without the invaluable contributions of several open-source libraries, such as [PyTorch](https://pytorch.org/), [OpenCV](https://opencv.org/) and [Scipy](https://scipy.org/). Their robust tools and resources were instrumental in the success of this project.
 
 We extend our heartfelt gratitude to our lecturers, Ph.D. Pham Ngoc Hung, for assigning us this challenging yet captivating project. It has been an incredible learning opportunity that has significantly enhanced our knowledge and skillset.
 
