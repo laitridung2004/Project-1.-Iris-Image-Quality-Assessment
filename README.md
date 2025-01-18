@@ -28,8 +28,6 @@ This approach uses predefined criteria to evaluate iris image quality. Each imag
 - **Relations plotted:** SHAP (SHapley Additive exPlanations) and PDP (Partial Dependence Plots) are employed to uncover nonlinear relationships among the selected criteria.  
 - **Fusion Function Creating:** A fusion function is developed, leveraging the discovered nonlinear relationships to aggregate the selected criteria effectively.  
 
----
-
 ### DFS-based Method  
 This approach employs deep learning to assess iris image quality by measuring the distance in the feature space (Distance in Feature Space - DFS).  
 
