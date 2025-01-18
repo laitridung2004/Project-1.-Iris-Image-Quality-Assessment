@@ -1,4 +1,4 @@
-# Project-1.-Iris-Image-Quality-Assessment
+# Embracing the Modern Era of Iris Quality Assessment utilizing Feature Space
 
 ![Logo](https://github.com/user-attachments/assets/1d0477fc-8df2-4790-be86-c284f8b996a4)
 
