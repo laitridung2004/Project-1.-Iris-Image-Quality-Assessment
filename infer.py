@@ -1,8 +1,8 @@
 import streamlit as st
 import os
 from PIL import Image
-from quality_score import evaluate_image
-from metric import process_image_and_calculate_metrics
+from dfs.quality_score import evaluate_image
+from dfsmetric import process_image_and_calculate_metrics
 import numpy as np
 
 # Đặt cấu hình trang phải ở dòng đầu tiên
