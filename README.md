@@ -13,7 +13,7 @@ This project represents our team’s endeavor to develop a model capable of asse
 
 The application is lightweight, scalable, and tailored for practical deployment in various biometric systems, such as secure access control, e-passport verification, and mobile authentication. It focuses on balancing high performance with computational efficiency, making it suitable for both on-device and cloud-based implementations.
 
-*** This project is developed and redesigned from scratch based on the project [Recognition Oriented Iris Image Quality Assessment in the Feature Space](https://arxiv.org/abs/2009.00294) belongs to Leyuan Wang and her colleagues. Hence, it is intended for `educational purposes only`. The model's performance is influenced by dataset constraints and may not guarantee absolute accuracy in all scenarios. It is not designed to replace professional-grade biometric systems or compliance frameworks.***
+***This project is developed and redesigned from scratch based on the project [Recognition Oriented Iris Image Quality Assessment in the Feature Space](https://arxiv.org/abs/2009.00294) belongs to Leyuan Wang and her colleagues. Hence, it is intended for `educational purposes only`. The model's performance is influenced by dataset constraints and may not guarantee absolute accuracy in all scenarios. It is not designed to replace professional-grade biometric systems or compliance frameworks.***
 
 ***
 
